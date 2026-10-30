@@ -9,7 +9,7 @@ Project ini dibuat sebagai tugas akhir perkuliahan Program Studi Teknologi Infor
 
 Buka langsung di browser, tanpa download:
 
-**https://github.com/evnydprtma12/website-sekolah**
+**https://evnydprtma12.github.io/website-sekolah/**
 
 
 ## Halaman
